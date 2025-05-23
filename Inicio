@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Mikel Vintage</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Mikel Vintage</h1>
+    <nav>
+      <a href="index.html">Inicio</a>
+      <a href="productos.html">Productos</a>
+      <a href="contacto.html">Contacto</a>
+      <a href="politica.html">Política de Privacidad</a>
+    </nav>
+  </header>
+
+  <main>
+    <h2>Bienvenido a Mikel Vintage</h2>
+    <p>Ropa vintage y segunda mano con estilo único.</p>
+    <img src="img/logo.png" alt="Logo Mikel Vintage" width="200">
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Mikel Vintage</p>
+  </footer>
+</body>
+</html>
+
